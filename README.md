@@ -4,7 +4,7 @@ Documentação de projeto desenvolvida no âmbito do **Bootcamp Santander de Cib
 
 ---
 
-## 🛠️ 1. Configuração e Arquitetura do Laboratório
+## 1. Configuração e Arquitetura do Laboratório
 
 O ambiente foi estruturado com o auxílio do **VirtualBox**, empregando duas máquinas virtuais isoladas por meio de uma rede interna (Host-Only). Essa topologia assegura a estabilidade e o isolamento necessários para a execução segura dos testes.
 
@@ -26,7 +26,7 @@ O ambiente foi estruturado com o auxílio do **VirtualBox**, empregando duas má
 
 ---
 
-## 🔍 2. Reconhecimento e Varredura de Portas (Nmap)
+## 2. Reconhecimento e Varredura de Portas (Nmap)
 
 Para mapear os serviços ativos e as potenciais portas de entrada na máquina alvo, foi realizada uma varredura utilizando a ferramenta **Nmap** com a flag de detecção de versão (`-sV`).
 
@@ -38,7 +38,7 @@ Para mapear os serviços ativos e as potenciais portas de entrada na máquina al
  
 ---
 
-## 🚀 3. Simulação de Ataque de Força Bruta (Medusa)
+## 3. Simulação de Ataque de Força Bruta (Medusa)
 
 Com base nos serviços descobertos no reconhecimento, o próximo passo consistiu em testar a resiliência das credenciais de autenticação do serviço de **FTP** utilizando a ferramenta **Medusa**.
 
@@ -57,7 +57,7 @@ Com base nos serviços descobertos no reconhecimento, o próximo passo consistiu
 
 ---
 
-## 🛡️ 4. Recomendações de Mitigação e Boas Práticas
+## 4. Recomendações de Mitigação e Boas Práticas
 
 Para mitigar os riscos associados aos cenários explorados neste laboratório, recomenda-se a adoção das seguintes medidas de segurança:
 
@@ -68,5 +68,5 @@ Para mitigar os riscos associados aos cenários explorados neste laboratório, r
 
 ---
 
-## 👨‍💻 Autoria
+## Autoria
 Desenvolvida por **Joyce Paz** durante a jornada de capacitação técnica do Bootcamp Santander Cibersegurança na [DIO](https://www.dio.me/).
