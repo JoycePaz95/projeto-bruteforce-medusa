@@ -69,4 +69,4 @@ Para mitigar os riscos associados aos cenários explorados neste laboratório, r
 ---
 
 ## Autoria
-Desenvolvida por **Joyce Paz** durante a jornada de capacitação técnica do Bootcamp Santander Cibersegurança na [DIO](https://www.dio.me/).
+Desenvolvida por **[Joyce Paz](https://www.linkedin.com/in/joyce-np/)** durante a jornada de capacitação técnica do Bootcamp Santander Cibersegurança na [DIO](https://www.dio.me/).
